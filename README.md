@@ -21,3 +21,6 @@ Relación entre Clases
 - Cualquier mejora adicional que hayas implementado
   En las clases: Pelicula, SerieDeTv y Documental se corrije MostrarDetalle para coicidir con la descripción de cada clase
   En las subclases: Actor, Temporada e Investigador se ToString para devolver el valor dato correcto.
+
+-Para la modificación de los métodos de los objetos se realiza directamente desde clase Main. PruebaAudioVisual  
+![image](https://github.com/user-attachments/assets/ba6726a6-62f0-43e9-a565-e1de19835438)
